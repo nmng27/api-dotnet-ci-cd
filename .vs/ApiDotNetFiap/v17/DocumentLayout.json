@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FIAP\\NET\\ApiDotNetFiap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|d:\\fiap\\net\\apidotnetfiap\\apidotnetfiap\\controllers\\trafegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|solutionrelative:apidotnetfiap\\controllers\\trafegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|d:\\fiap\\net\\apidotnetfiap\\apidotnetfiap\\models\\trafego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|solutionrelative:apidotnetfiap\\models\\trafego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|d:\\fiap\\net\\apidotnetfiap\\apidotnetfiap\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|solutionrelative:apidotnetfiap\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|d:\\fiap\\net\\apidotnetfiap\\apidotnetfiap\\viewmodels\\viewmodeltrafego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|solutionrelative:apidotnetfiap\\viewmodels\\viewmodeltrafego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|d:\\fiap\\net\\apidotnetfiap\\apidotnetfiap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB867858-821B-4DA2-A796-CBDF404CF0F5}|ApiDotNetFiap\\ApiDotNetFiap.csproj|solutionrelative:apidotnetfiap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRafego.cs",
+              "DocumentMoniker": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Models\\TRafego.cs",
+              "RelativeDocumentMoniker": "ApiDotNetFiap\\Models\\TRafego.cs",
+              "ToolTip": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Models\\TRafego.cs",
+              "RelativeToolTip": "ApiDotNetFiap\\Models\\TRafego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:54:18.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelTrafego.cs",
+              "DocumentMoniker": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\ViewModels\\ViewModelTrafego.cs",
+              "RelativeDocumentMoniker": "ApiDotNetFiap\\ViewModels\\ViewModelTrafego.cs",
+              "ToolTip": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\ViewModels\\ViewModelTrafego.cs",
+              "RelativeToolTip": "ApiDotNetFiap\\ViewModels\\ViewModelTrafego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:53:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "ApiDotNetFiap\\Data\\DbContext.cs",
+              "ToolTip": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Data\\DbContext.cs",
+              "RelativeToolTip": "ApiDotNetFiap\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:52:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Program.cs",
+              "RelativeDocumentMoniker": "ApiDotNetFiap\\Program.cs",
+              "ToolTip": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Program.cs",
+              "RelativeToolTip": "ApiDotNetFiap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:55:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafegoController.cs",
+              "DocumentMoniker": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Controllers\\TrafegoController.cs",
+              "RelativeDocumentMoniker": "ApiDotNetFiap\\Controllers\\TrafegoController.cs",
+              "ToolTip": "D:\\FIAP\\NET\\ApiDotNetFiap\\ApiDotNetFiap\\Controllers\\TrafegoController.cs",
+              "RelativeToolTip": "ApiDotNetFiap\\Controllers\\TrafegoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0cAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:54:12.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
